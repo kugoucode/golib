@@ -5,9 +5,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"gostruct/gostruct"
 	"reflect"
 
+	"github.com/kugoucode/golib/gostruct"
 	"github.com/go-playground/validator/v10"
 )
 

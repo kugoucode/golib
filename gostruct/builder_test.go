@@ -3,7 +3,7 @@ package gostruct_test
 import (
 	"fmt"
 
-	"github.com/itsubaki/gostruct"
+	"github.com/kugoucode/golib/gostruct"
 )
 
 func Example() {
